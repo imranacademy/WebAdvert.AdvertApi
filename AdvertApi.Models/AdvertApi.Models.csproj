@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+    <Title>Advert Microservices</Title>
+    <Authors>Imran</Authors>
+    <Company>None</Company>
+    <Product>Web Advert Microservices</Product>
+    <PackageProjectUrl>https://github.com/imranacademy/WebAdvert.AdvertApi.git</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/imranacademy/WebAdvert.AdvertApi.git</RepositoryUrl>
+  </PropertyGroup>
+
+</Project>
